@@ -1,9 +1,15 @@
 # atmon
 
 > A Vue.js project
+```
 > An attendance monitoring web app built together with a mobile app
+```
+```
 > User: admin, lecturers
+```
+```
 > Mobile app => https://github.com/qhaixan/Atmon_Mobile
+```
 
 ## Build Setup
 
