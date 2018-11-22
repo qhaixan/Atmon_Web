@@ -1,0 +1,69 @@
+.scroll {
+  overflow-y: auto;
+  height:         calc(100vh - 180px);
+}
+.stu_list {
+  overflow-y: auto;
+  height:         calc(100vh - 250px);
+}
+.addbtn {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.additem {
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-bottom: -20px;
+}
+#addField {
+  width: 100%;
+  margin-top: -40px;
+  margin-bottom: -30px;
+}
+table {
+  margin: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-collapse: collapse;
+}
+tbody {
+  display: block;
+  height: 280px;
+  overflow-y: auto;
+}
+thead {
+  display: block;
+}
+table, td, th {
+
+}
+td, th {
+  text-align: left;
+  padding:5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.selectable:hover {
+  cursor: pointer;
+  color: blue;
+  font-weight: 600;
+}
+th {
+  background-color: #35435b;
+  color: white;
+}
+.list > td:nth-child(1), th:nth-child(1) {
+  width: 60px;
+}
+.list > td:nth-child(2), th:nth-child(2) {
+  width: 160px;
+}
+.list > td:nth-child(3), th:nth-child(3) {
+  width: 220px;
+}
+.list:nth-child(even) {
+  background-color: #cecece;
+}
+.list:nth-child(odd) {
+  background-color: white;
+}
