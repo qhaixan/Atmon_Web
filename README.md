@@ -2,13 +2,16 @@
 
 > A Vue.js project
 ```
-> An attendance monitoring web app built together with a mobile app
+An attendance monitoring web app built together with a mobile app
 ```
 ```
-> User: admin, lecturers
+User: admin, lecturers
 ```
 ```
-> Mobile app => https://github.com/qhaixan/Atmon_Mobile
+link to the web app => https://attendancetaker-fa95e.firebaseapp.com/
+```
+```
+Mobile app => https://github.com/qhaixan/Atmon_Mobile
 ```
 
 ## Build Setup
